@@ -1,16 +1,35 @@
-# fitness_app
+# Fitness App  
 
-A new Flutter project.
+**Fitness App** is a Flutter-based project designed to help users track and manage their fitness journey.  
 
-## Getting Started
+## Features  
+- Cross-platform support (iOS, Android, Web, etc.).  
+- Easily customizable and extensible.  
 
-This project is a starting point for a Flutter application.
+## Getting Started  
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites  
+- [Flutter SDK](https://flutter.dev/docs/get-started/install) installed on your system.  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation  
+1. Clone the repository:  
+   ```bash  
+   git clone https://github.com/MrSajidShaikh/fitness_app.git  
+   cd fitness_app
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#
+
+## Folder Structure
+
+   fitness_app/  
+├── android/  
+├── ios/  
+├── lib/  
+│   ├── main.dart  
+│   └── ...  
+├── assets/  
+├── test/  
+└── pubspec.yaml  
+
+
+
